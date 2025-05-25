@@ -9,6 +9,7 @@ Este projeto é um jogo de plataforma 2D desenvolvido em **MonoGame** com suport
 - Câmera que segue o jogador
 - Detecção de fim de jogo
 
+Trabalho realizado por: José Mina Fernandes nº33200
 ---
 
 ## 🎮 Controles
