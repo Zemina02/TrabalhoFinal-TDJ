@@ -1,0 +1,153 @@
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\nd_trabalho.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\nd_trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\nd_trabalho.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\nd_trabalho.AssemblyInfo.cs
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\nd_trabalho.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\Content\background_0.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\Content\defouth correr.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\Content\defouth pose.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\Content\nivel_1.tmx
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\Content\Tiles.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\nd_trabalho.exe
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\nd_trabalho.deps.json
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\nd_trabalho.runtimeconfig.json
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\nd_trabalho.pdb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\NVorbis.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\TiledSharp.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\nd_traba.8ECC58C3.Up2Date
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\refint\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\nd_trabalho.pdb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\nd_trabalho.genruntimeconfig.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\2nd trabalho\obj\Debug\net8.0\ref\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\nivel_1.tmx
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\nd_trabalho.exe
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\nd_trabalho.deps.json
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\nd_trabalho.runtimeconfig.json
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\nd_trabalho.pdb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\NVorbis.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\TiledSharp.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\nd_trabalho.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\nd_trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\nd_trabalho.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\nd_trabalho.AssemblyInfo.cs
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\nd_trabalho.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\nd_traba.8ECC58C3.Up2Date
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\refint\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\nd_trabalho.pdb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\nd_trabalho.genruntimeconfig.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\obj\Debug\net8.0\ref\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\level1.tmx
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\defouth_correr.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\defouth_pose.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\nivel\Gray_Tile_Terrain (16 x 16).xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\nivel\level1.tmx
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\Brown_Tile_Terrain (16 x 16).xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\Gray_Tile_Terrain (16 x 16).xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\Scaffolding_and_BG_Parts (16 x 16).xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\_Complete_static_BG_(288 x 208).xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\defouth_FALL.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\defouth_salto.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\inimigo2.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\attack1.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\coins.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Content\BebasNeue-Regular.ttf
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Apos.Gui.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Apos.Input.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Apos.Tweens.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\Cyotek.Drawing.BitmapFont.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\FontStashSharp.Base.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\FontStashSharp.MonoGame.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\FontStashSharp.Rasterizers.StbTrueTypeSharp.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\MonoGame.Extended.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\StbImageSharp.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\bin\Debug\net8.0\StbTrueTypeSharp.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\BebasNeue-Regular.ttf
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\level1.tmx
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\nivel\level1.tmx
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\nivel_1.tmx
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\attack1.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\Brown_Tile_Terrain (16 x 16).xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\coins.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\defouth_correr.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\defouth_FALL.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\defouth_pose.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\defouth_salto.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\Gray_Tile_Terrain (16 x 16).xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\inimigo2.xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\nivel\Gray_Tile_Terrain (16 x 16).xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\Scaffolding_and_BG_Parts (16 x 16).xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Content\_Complete_static_BG_(288 x 208).xnb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\nd_trabalho.exe
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\nd_trabalho.deps.json
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\nd_trabalho.runtimeconfig.json
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\nd_trabalho.pdb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Apos.Gui.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Apos.Input.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Apos.Tweens.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\Cyotek.Drawing.BitmapFont.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\FontStashSharp.Base.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\FontStashSharp.MonoGame.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\FontStashSharp.Rasterizers.StbTrueTypeSharp.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\MonoGame.Extended.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\NVorbis.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\StbImageSharp.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\StbTrueTypeSharp.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\TiledSharp.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\nd_trabalho.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\nd_trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\nd_trabalho.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\nd_trabalho.AssemblyInfo.cs
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\nd_trabalho.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\nd_traba.8ECC58C3.Up2Date
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\refint\nd_trabalho.dll
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\nd_trabalho.pdb
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\nd_trabalho.genruntimeconfig.cache
+C:\Users\home\Desktop\desenvovimneyo de jopgops\trabalho final\nd_trabalho\2nd-Trabalho-TDJ\obj\Debug\net8.0\ref\nd_trabalho.dll

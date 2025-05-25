@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-trabalho-tdj\\src\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-trabalho-tdj\\src\\tilemapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\tilemapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-trabalho-tdj\\content\\nivel\\level1.tmx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:content\\nivel\\level1.tmx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-trabalho-tdj\\src\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-trabalho-tdj\\src\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-trabalho-tdj\\src\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-trabalho-tdj\\src\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-trabalho-tdj\\src\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-trabalho-tdj\\src\\animations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\animations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-trabalho-tdj\\src\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "level1.tmx",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\Content\\nivel\\level1.tmx",
+              "RelativeDocumentMoniker": "Content\\nivel\\level1.tmx",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\Content\\nivel\\level1.tmx",
+              "RelativeToolTip": "Content\\nivel\\level1.tmx",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T11:05:17.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TilemapManager.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\TilemapManager.cs",
+              "RelativeDocumentMoniker": "src\\TilemapManager.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\TilemapManager.cs",
+              "RelativeToolTip": "src\\TilemapManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:48:51.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Game1.cs",
+              "RelativeDocumentMoniker": "src\\Game1.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Game1.cs",
+              "RelativeToolTip": "src\\Game1.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAAcwGwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:48:49.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camara.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Camara.cs",
+              "RelativeDocumentMoniker": "src\\Camara.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Camara.cs",
+              "RelativeToolTip": "src\\Camara.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:00:55.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coins.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Coins.cs",
+              "RelativeDocumentMoniker": "src\\Coins.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Coins.cs",
+              "RelativeToolTip": "src\\Coins.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:27:00.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Enemy.cs",
+              "RelativeDocumentMoniker": "src\\Enemy.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Enemy.cs",
+              "RelativeToolTip": "src\\Enemy.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wCwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:19:00.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Player.cs",
+              "RelativeDocumentMoniker": "src\\Player.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Player.cs",
+              "RelativeToolTip": "src\\Player.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:48:50.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\Entity.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Entity.cs",
+              "RelativeToolTip": "src\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:48:47.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\GameManager.cs",
+              "RelativeDocumentMoniker": "src\\GameManager.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\GameManager.cs",
+              "RelativeToolTip": "src\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:58:08.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animations.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Animations.cs",
+              "RelativeDocumentMoniker": "src\\Animations.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\2nd-Trabalho-TDJ\\src\\Animations.cs",
+              "RelativeToolTip": "src\\Animations.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:48:48.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

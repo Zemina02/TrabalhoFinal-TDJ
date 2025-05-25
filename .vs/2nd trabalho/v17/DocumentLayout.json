@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\tilemapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\tilemapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|c:\\users\\home\\desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\animations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87312D9A-29AD-418B-9531-A8797A7F99E7}|nd_trabalho.csproj|solutionrelative:src\\animations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Program.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\Program.cs",
+              "RelativeToolTip": "src\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:45:04.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\Game1.cs",
+              "RelativeDocumentMoniker": "src\\Game1.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\Game1.cs",
+              "RelativeToolTip": "src\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:35:20.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TilemapManager.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\TilemapManager.cs",
+              "RelativeDocumentMoniker": "src\\TilemapManager.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\TilemapManager.cs",
+              "RelativeToolTip": "src\\TilemapManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:31:02.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\Player.cs",
+              "RelativeDocumentMoniker": "src\\Player.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\Player.cs",
+              "RelativeToolTip": "src\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:30:45.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\Entity.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\Entity.cs",
+              "RelativeToolTip": "src\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:30:31.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animations.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\Animations.cs",
+              "RelativeDocumentMoniker": "src\\Animations.cs",
+              "ToolTip": "C:\\Users\\home\\Desktop\\desenvovimneyo de jopgops\\trabalho final\\nd_trabalho\\src\\Animations.cs",
+              "RelativeToolTip": "src\\Animations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:30:13.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
